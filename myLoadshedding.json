@@ -2,13 +2,13 @@
 "updated_at":"27th Shrawan 2073",
 "Schedule":[
 {"group":1,
-"sunday":"9:00 am-12:00 pm,5:00 pm-8:30 pm",
-"monday":"12:00 pm-4:00 pm,8:00 am-10:00 pm",
-"tuesday":"11:00 am-3:00 pm,7:00 pm-9:30 pm",
-"wednesday":"7:00 am-11:00 am,4:00 pm-8:00 pm",
-"thursday":"10:00 am-2:00 pm,6:30 pm-9:00 pm",
-"friday":"5:00 am-9:00 am,2:00 pm-5:00 pm",
-"saturday":"6:00 am-10:00 am,3:00 pm-7:00 pm"
+"sunday":"9:00 -12:00 ,5:00 -8:30 ",
+"monday":"12:00 -4:00 ,8:00 -10:00 ",
+"tuesday":"11:00 -3:00 ,7:00 -9:30 ",
+"wednesday":"7:00 -11:00 ,4:00 -8:00 ",
+"thursday":"10:00 -2:00 ,6:30 -9:00 ",
+"friday":"5:00 -9:00 ,2:00 -5:00 ",
+"saturday":"6:00 -10:00 ,3:00 -7:00 "
 },
 {"group":2,
 "sunday":"6:00-10:00,3:00-7:00",
