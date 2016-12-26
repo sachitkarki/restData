@@ -1,16 +1,16 @@
 {
   "sEcho": 1,
-  "iTotalRecords": 2,
-  "iTotalDisplayRecords": 2,
-  "aaData": [
+  "totalRecords": 2,
+  "totalDisplayRecords": 2,
+  "details": [
     {
-      "jobtitle": "Test</a>",
-      "company": "Test Info Solutions Private Limited</a>",
+      "jobtitle": "Test",
+      "company": "Test Info Solutions Private Limited",
       "closingdate": "15 Jan 2017"
     },
     {
-      "jobtitle": "Test2</a>",
-      "company": "Test Info Solutions Private Limitedss</a>",
+      "jobtitle": "Test2",
+      "company": "Test Info Solutions Private Limitedss",
       "closingdate": "16 Jan 2017"
     }
   ]
