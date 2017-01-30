@@ -1,0 +1,1 @@
+{"status":"Success","code":"S00","message":"FeeStructure List","details":[{"feestructureId":1,"admissionFee":"25000","tutionFee":"50000","semesterFee":"50000","semester":"1","year":null,"totalFee":"400000","collegeId":1,"departmentId":1}]}
